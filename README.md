@@ -38,17 +38,14 @@ Welcome to **NEED-FOR-SPEWED-2D**, a fun and addictive 2D racing game coded by *
 Navigate to the project directory:
 
 bash
-Copy
 cd NEED-FOR-SPEWED-2D
 Install the required dependencies:
 
 bash
-Copy
 pip install pygame
 Run the game:
 
 bash
-Copy
 python main.py
 ## How to Play 🕹️
 Select Game Mode: Choose between Easy, Medium, and Hard modes.
@@ -85,17 +82,14 @@ Fork the repository.
 Create a new branch:
 
 bash
-Copy
 git checkout -b feature/your-feature-name
 Commit your changes:
 
 bash
-Copy
 git commit -m "Add your feature"
 Push to the branch:
 
 bash
-Copy
 git push origin feature/your-feature-name
 Open a pull request.
 
